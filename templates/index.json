@@ -161,7 +161,7 @@
     "bdbf1342-9c16-410e-ba7a-401d7ebed591": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
