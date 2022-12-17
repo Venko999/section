@@ -380,6 +380,48 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "ed166eac-00b8-464d-9d4b-923b330792f1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16618256171273__ed166eac-00b8-464d-9d4b-923b330792f1-1671286525025d31ef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Stop scrolling around!<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16618256171273__ed166eac-00b8-464d-9d4b-923b330792f1-1671286525025d31ef-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buy some cool stuff!<\/p>"
+          }
+        },
+        "template--16618256171273__ed166eac-00b8-464d-9d4b-923b330792f1-1671286525025d31ef-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Check catalog",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16618256171273__ed166eac-00b8-464d-9d4b-923b330792f1-1671286525025d31ef-0",
+        "template--16618256171273__ed166eac-00b8-464d-9d4b-923b330792f1-1671286525025d31ef-1",
+        "template--16618256171273__ed166eac-00b8-464d-9d4b-923b330792f1-1671286525025d31ef-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
     }
   },
   "order": [
@@ -392,6 +434,7 @@
     "multicolumn",
     "426b62cf-09d4-4a3b-af0d-d5c5708da568",
     "82d47f0f-b372-461b-863c-a604e9e66e46",
-    "0a2073ad-c59e-4f36-9278-432314564d2f"
+    "0a2073ad-c59e-4f36-9278-432314564d2f",
+    "ed166eac-00b8-464d-9d4b-923b330792f1"
   ]
 }
