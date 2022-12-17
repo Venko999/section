@@ -277,7 +277,7 @@
         "template--16257248559369__82d47f0f-b372-461b-863c-a604e9e66e46-167111232179ff5aab-0": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
+            "text": "{{ section.settings.product.vendor }} |New",
             "text_style": "uppercase"
           }
         },
