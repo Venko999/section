@@ -401,7 +401,7 @@
           "type": "button",
           "settings": {
             "button_label": "Check catalog",
-            "button_link": "",
+            "button_link": "https:\/\/duckify.store\/collections\/all",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
